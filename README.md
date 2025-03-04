@@ -53,8 +53,3 @@ Salida esperada:
 
 ## ⚠️ Advertencia
 El uso de esta herramienta sin autorización en redes ajenas puede ser ilegal. Asegúrate de tener permiso antes de escanear cualquier sistema.
-
-## 📜 Licencia
-Este proyecto está bajo la licencia MIT. Puedes modificar y distribuir el código respetando los términos de la licencia.
-
-
